@@ -1,0 +1,1 @@
+a:2:{s:4:"show";a:7:{s:7:"showbtn";i:1;s:7:"showwin";i:0;s:6:"showyz";i:0;s:8:"showbtn1";i:1;s:8:"showwin1";i:0;s:7:"showyz1";i:0;s:8:"ycontent";s:108:"游戏上线后，我们将通过&lt;span style=&quot;color:red&quot;&gt;免费短信&lt;/span&gt;提醒你~";}s:4:"city";a:0:{}}

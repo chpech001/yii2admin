@@ -1,0 +1,10 @@
+1¡¢
+CREATE TABLE `hykb_web_game_wap` (
+  `gameid` int(10) NOT NULL DEFAULT '0',
+  `status` tinyint(2) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`gameid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+
+2¡¢
+insert into hykb_web_sysinfo(code) values('wap_indexinfo')
